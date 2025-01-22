@@ -6,7 +6,6 @@ Created on Sun Jan 19 13:23:34 2025
 """
 
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 
 df = pd.read_excel("C:/Users/gabea/OneDrive/Documents/Spring 25/Trading/Homework Assignment #1.xlsx", sheet_name="HSC")
